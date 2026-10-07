@@ -1,0 +1,11 @@
+body { font-family: serif; line-height: 1.8; text-align: justify; }
+h1 { font-size: 1.6em; text-align: center; margin: 2em 0 1.2em; page-break-before: always; letter-spacing: 0.08em; }
+h2 { font-size: 1.3em; margin: 1.6em 0 0.8em; border-bottom: 1px solid #b33a2b; padding-bottom: 0.2em; }
+h3 { font-size: 1.1em; margin: 1.4em 0 0.6em; color: #8a2c20; }
+p { text-indent: 2em; margin: 0.4em 0; }
+li p, blockquote p { text-indent: 0; }
+div.yuanwen { background: #f4efe4; border-left: 4px solid #8a7a5c; padding: 0.6em 0.9em; margin: 1em 0; font-family: "KaiTi", "STKaiti", serif; }
+div.yuanwen p { text-indent: 0; }
+div.jiedu { margin: 0.6em 0 1.4em; }
+div.jiedu::before { content: "解读"; display: block; font-weight: bold; color: #b33a2b; font-size: 0.9em; margin-bottom: 0.2em; }
+blockquote { margin: 1em 1.5em; color: #555; }
