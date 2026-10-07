@@ -1,0 +1,13 @@
+body { font-family: serif; line-height: 1.85; text-align: justify; margin: 0 0.4em; }
+h1 { font-size: 1.7em; text-align: center; margin: 3em 0 1.5em; page-break-before: always; letter-spacing: 0.1em; }
+h2 { font-size: 1.35em; margin: 1.2em 0 1.2em; page-break-before: always; text-align: center; letter-spacing: 0.05em; }
+h3 { font-size: 1.1em; margin: 1.8em 0 0.8em; color: #7a2a20; }
+p { text-indent: 2em; margin: 0.35em 0; }
+blockquote { margin: 1em 1.2em; color: #444; font-family: "KaiTi", "STKaiti", serif; }
+blockquote p { text-indent: 0; }
+li p { text-indent: 0; }
+section.huiwang, div.huiwang { background: #f5f1ea; border-top: 2px solid #a0241c; padding: 0.6em 0.9em 0.8em; margin-top: 2em; }
+.footnotes, section.footnotes { font-size: 0.85em; color: #444; line-height: 1.6; }
+.footnotes p { text-indent: 0; }
+a.footnote-ref { font-size: 0.75em; vertical-align: super; text-decoration: none; }
+.volintro p { text-indent: 2em; }
