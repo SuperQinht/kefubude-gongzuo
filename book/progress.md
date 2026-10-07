@@ -2,7 +2,7 @@
 
 ## 当前阶段
 阶段 2：研究。用户已确认大纲（2026-10-07）：全本约 68 万字正文、不做附录、诗词可成段讲、书名《毛泽东：在不确定中下判断》、样章第 16 章（用户未另指定，按推荐）。
-9 个研究员已并行派出（vol_01—vol_08、theory），说明见 research/BRIEF.md。下一步：审阅资料包 → 写样章第 16 章 → 核查 + 文风审读 → 发给用户确认。
+9 个研究员已并行派出（vol_01—vol_08、theory），说明见 research/BRIEF.md。阶段 3：样章第 16 章已通过，已发用户确认（output/样章-第16章-湘江之后.epub）。确认后进入阶段 4 批量撰写。
 
 ## 已完成
 - 阶段 0：环境检查。pandoc 3.1.3、Python 3.13、Java、epubcheck 4.2.6、Noto Sans CJK SC（/usr/share/fonts/opentype/noto/NotoSansCJK-*.ttc）、Pillow 均可用。注意：新会话容器中 fonts-noto-cjk 与 epubcheck 需重新 `apt-get install -y fonts-noto-cjk epubcheck`。
@@ -19,7 +19,7 @@
 | 章 | 状态 |
 |---|---|
 | 资料包 vol_01—08、theory | 全部已交（大量【待核】，因 WebFetch 被拦截、搜索额度受限） |
-| 第16章（样章） | 修改中（核查：5 条必须改；文风：需修改） |
+| 第16章（样章） | 已通过核查复核与文风复审，**等待用户确认风格** |
 | 其余 | 待样章确认后撰写 |
 
 ## 未解决问题
