@@ -27,6 +27,8 @@
 | 赫鲁晓夫 | Nikita Khrushchev | |
 | 基辛格 | Henry Kissinger | |
 | 尼克松 | Richard Nixon | |
+| 索尔兹伯里 | Harrison E. Salisbury | 《长征：前所未闻的故事》 |
+| 坎彭 | Thomas Kampen | |
 | 泡尔生 | Friedrich Paulsen | 《伦理学原理》，蔡元培译 |
 
 ## 中国人名
